@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+numpy
+pandas
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+altair
+streamlit
+requests
+scipy
